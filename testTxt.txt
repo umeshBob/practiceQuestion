@@ -1,2 +1,1 @@
-Hi this is to test commit 
-adding 2nd change
+Hi this is to test adding 2nd change
